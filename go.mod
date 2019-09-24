@@ -1,4 +1,4 @@
-module github.com/mr337/sqlx
+module github.com/transcom/sqlx
 
 require (
 	github.com/go-sql-driver/mysql v1.4.0
